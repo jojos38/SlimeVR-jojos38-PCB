@@ -21,6 +21,12 @@ A custom and fully featured PCB to make your own SlimeVR trackers!
 - V4.0: Initial release
 - V4.1: Fixed USB ESD diode wiring
 
+## Problems
+- Nothing is perfect and this PCB makes no exception
+- The LED placement is not perfect relative to the cables for the main sensor. The cables could go on top the LED and hide it, it could see some improvements
+- The size of the board (38x38) makes it complicated to fit with some batteries
+- The boards can be a bit expensive to produce (~7€ per board)
+
 ## Important note: The ESD diode schematic is WRONG by the person who made it, I should have fixed it on the new variant but it wasn't tested
 
 ![Motherboard image](https://i.ibb.co/j6M91H0/20231001-211224.jpg)
