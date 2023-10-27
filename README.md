@@ -1,7 +1,7 @@
 # SlimeVR-jojos38-PCB
 A custom and fully featured PCB to make your own SlimeVR trackers!
 
-It features:
+## It features:
 - Ultra compact 38x38mm motherboard, perfect for 40mm batteries
 - Autostop feature (the sensors will stop themselves after x minutes if they aren't used)
 - Ultra efficient charger provides fast adjustable charge (0.25A to 2A with 0.25A increment adjustability)
@@ -12,7 +12,11 @@ It features:
 - Low heating while charging and working
 - Ability to add temperature sensor for the battery (**Require modification of the PCB before ordering**)
 
-**Important note**: The ESD diode schematic is WRONG by the person who made it, I should have fixed it on the new variant but it wasn't tested
+## Updates
+- V4.0: Initial release
+- V4.1: Fixed USB ESD diode wiring
+
+## Important note: The ESD diode schematic is WRONG by the person who made it, I should have fixed it on the new variant but it wasn't tested
 
 ![Motherboard image](https://i.ibb.co/j6M91H0/20231001-211224.jpg)
 
