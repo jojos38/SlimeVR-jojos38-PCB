@@ -1,7 +1,7 @@
 # SlimeVR-jojos38-PCB
 A custom and fully featured PCB to make your own SlimeVR trackers!
 
-### I am not taking any responsibility regarding this board, this includes but is not limited to: Board not working after order, missing or misbehaving features, any physical damage caused by the board, broken or exploded bettery and so on. Order this board at your own risk, do your own research and verifications if you have any doubt.
+### I am not taking any responsibility regarding this board, this includes but is not limited to: Board not working after order, missing or misbehaving features, any physical damage caused by the board, broken or exploded batteries and so on. Order this board at your own risk, do your own researchs and verifications if you have any doubt.
 
 ## Notes:
 - The connector of the extension is a **JST ZH 1.5mm 5 PINS**
